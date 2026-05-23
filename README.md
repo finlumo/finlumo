@@ -19,7 +19,7 @@
 
 ---
 
-# 🌍 About Finlumo
+#  About Finlumo
 
 **Finlumo** is a modern global trading company dedicated to connecting businesses and markets worldwide through reliable, transparent, and efficient trade solutions.
 
@@ -33,7 +33,7 @@ At Finlumo, trade is more than transactions — it’s about building sustainabl
 
 ---
 
-# 🚀 What We Do
+#  What We Do
 
 - 🌐 International Trade & Market Expansion
 - 🤝 Strategic Business Partnerships
@@ -44,7 +44,7 @@ At Finlumo, trade is more than transactions — it’s about building sustainabl
 
 ---
 
-# 💡 Why Choose Finlumo?
+#  Why Choose Finlumo?
 
 <table>
 <tr>
@@ -80,13 +80,13 @@ Streamlined trading processes designed for speed, security, and scalability.
 
 ---
 
-# 📈 Our Vision
+#  Our Vision
 
 To become a globally recognized trading partner that empowers businesses through innovative trade solutions, strategic collaborations, and sustainable growth opportunities.
 
 ---
 
-# 🛠️ Core Business Values
+#  Core Business Values
 
 ✔ Trust
 ✔ Integrity
@@ -95,7 +95,7 @@ To become a globally recognized trading partner that empowers businesses through
 ✔ Customer Success
 ✔ Sustainable Growth
 
-# 📊 Global Trade Focus
+#  Global Trade Focus
 
 <div align="center">
 
