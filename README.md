@@ -98,21 +98,42 @@ To become a globally recognized trading partner that empowers businesses through
 
 ---
 
-🌐 Official Website
-<p align="center"> <a href="https://finlumo.com"> <img src="https://img.shields.io/badge/Visit%20Finlumo-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> </p>
-📊 Global Trade Focus
+# 🌐 Official Website
+
+<p align="center">
+  <a href="https://finlumo.com">
+    <img src="https://img.shields.io/badge/Visit%20Finlumo-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 📊 Global Trade Focus
+
 <div align="center">
-Markets	Services	Commitment
-International	Trading Solutions	Reliability
-Emerging Markets	Product Distribution	Transparency
-Business Networks	Strategic Partnerships	Efficiency
+
+| Markets | Services | Commitment |
+|----------|----------|-------------|
+| International | Trading Solutions | Reliability |
+| Emerging Markets | Product Distribution | Transparency |
+| Business Networks | Strategic Partnerships | Efficiency |
+
 </div>
-🤝 Partner With Finlumo
+
+---
+
+# 🤝 Partner With Finlumo
 
 We believe successful trading is built on strong partnerships and shared growth.
 
-Whether you're looking to expand into new markets, source quality products, or build strategic business connections — Finlumo is ready to help you succeed.
+Whether you're looking to expand into new markets, source quality products, or build strategic business connections — **Finlumo is ready to help you succeed.**
+
+---
 
 <div align="center">
-🌍 Trade Beyond Borders with Finlumo
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/> </div> ```
+
+# 🌍 Trade Beyond Borders with Finlumo
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
+
+</div>
