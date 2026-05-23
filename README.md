@@ -95,6 +95,8 @@ To become a globally recognized trading partner that empowers businesses through
 - ✔ Customer Success
 - ✔ Sustainable Growth
 
+---
+
 #  Global Trade Focus
 
 <div align="left">
