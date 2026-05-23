@@ -97,7 +97,7 @@ To become a globally recognized trading partner that empowers businesses through
 
 #  Global Trade Focus
 
-<div align="center">
+<div align="left">
 
 | Markets | Services | Commitment |
 |----------|----------|-------------|
