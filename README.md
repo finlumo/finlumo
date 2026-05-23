@@ -86,10 +86,14 @@ To become a globally recognized trading partner that empowers businesses through
 
 ---
 
+# 🛠️ Core Business Values
 
-
-
----
+✔ Trust
+✔ Integrity
+✔ Innovation
+✔ Global Collaboration
+✔ Customer Success
+✔ Sustainable Growth
 
 # 📊 Global Trade Focus
 
@@ -114,14 +118,3 @@ Whether you're looking to expand into new markets, source quality products, or b
 ---
 
 <div align="center">
-
-
-# 🛠️ Core Business Values
-
-```text
-✔ Trust
-✔ Integrity
-✔ Innovation
-✔ Global Collaboration
-✔ Customer Success
-✔ Sustainable Growth
