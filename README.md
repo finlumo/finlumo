@@ -1,6 +1,6 @@
 <div align="center">
 
-# Finlumo
+# Welcome to Finlumo
 
 ### Connecting Global Markets Through Trusted Trade & Innovation
 
@@ -88,12 +88,12 @@ To become a globally recognized trading partner that empowers businesses through
 
 #  Core Business Values
 
-✔ Trust
-✔ Integrity
-✔ Innovation
-✔ Global Collaboration
-✔ Customer Success
-✔ Sustainable Growth
+- ✔ Trust
+- ✔ Integrity
+- ✔ Innovation
+- ✔ Global Collaboration
+- ✔ Customer Success
+- ✔ Sustainable Growth
 
 #  Global Trade Focus
 
