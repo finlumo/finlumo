@@ -109,7 +109,7 @@ To become a globally recognized trading partner that empowers businesses through
 
 ---
 
-# 🤝 Partner With Finlumo
+# Partner With Finlumo
 
 We believe successful trading is built on strong partnerships and shared growth.
 
